@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @bestknowledge1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bestknowledge1/bestknowledge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, iam learn many about coding with best knowledge  
+My Blogger: https://midohema1.blogspot.com/?m=1
+Facebook: https://www.facebook.com/Best-Knowledge-110270448371786/
+Twitter: https://twitter.com/bestknowledge5?t=hn75zB0urGk3mP6KD8bWjA&s=09
+pinterest: https://www.pinterest.com/bestknowledge0069/_created/
+instagram: https://instagram.com/best.knowledge.1?igshid=YmMyMTA2M2Y=
